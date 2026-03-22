@@ -22,6 +22,7 @@ Just type → generate → see it live.
 ## 🎥 Demo
 
 ![demo](./demo.gif)
+![demo](./demo2.gif)
 
 > Replace this with your actual demo GIF (VERY IMPORTANT 🚨)
 
